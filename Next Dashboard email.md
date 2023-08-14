@@ -39,7 +39,7 @@ I have just shared the Finance Credit Team Dashboard. This dashboard is a tool, 
 
 I have taken a picture of today's dashboard and will now illustrate how to "read" it and then determine a targeted work agenda for progressing the open incidents. The following is a snapshot of today's Finance Credit Team Dashboard:
 
- image.png
+ ![Image](T0-Dashboard.png)
 
 
 Upon opening the dashboard, I will immediately pay attention to the numbers in red. A number will appear red if it represents either:
